@@ -1,7 +1,7 @@
 # UC3M Teleco Students (et al.)
 
 > [!Note]
-> **Current academic year**: 2023-24  
+> **Current academic year**: 2024-25  
 > Projects from older years should be archived and renamed to include the year in order to avoid name clashes
 
 ## Welcome!
